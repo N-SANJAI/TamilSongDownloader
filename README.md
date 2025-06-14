@@ -11,7 +11,7 @@ A standalone Windows executable that lets you search, select and download Tamil 
 
 - **Zero-configuration**: Just the `.exe`—no JSON or INI files.  
 - **Album & track selection**: Fetch entire soundtracks, drill down to individual songs.  
-- **High-quality audio/video**: Choose 128 kbps, 320 kbps, or video streams up to 1080p.  
+- **High-quality audio/video**: Highest Quality Audio, and video streams up to 4k.  
 - **Built-in progress & logs**: See download progress, file sizes, and detailed logs.  
 - **Smart output path**: Automatically saves to `Downloads/Songs`.
 
