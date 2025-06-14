@@ -19,7 +19,7 @@ A standalone Windows executable that lets you search, select and download Tamil 
 
 ## 📥 Installation
 
-1. **Download** the latest `TamilSongDownloader.exe` from the [Releases page](https://github.com/your-username/TamilSongDownloader/releases).  
+1. **Download** the latest `TamilSongDownloader.exe` from the [Releases page](https://github.com/N-SANJAI/TamilSongDownloader/tree/main/releases).  
 2. (Optional) **Pin** it to your Taskbar or Start Menu for one-click access.
 
 ---
